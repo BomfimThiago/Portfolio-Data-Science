@@ -11,6 +11,7 @@ Experiência Profissional:
   - Estágio na IplanRio em BI com Qlik Sense, Metaware.
 
 **Background in:** Python, R,.Net, Angular.
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiago-bomfim-3aa167183/)
 
