@@ -1,5 +1,5 @@
 # Portfolio-Data-Science
 <p align="center">
-  <img src="data science2.jpg" >
+  <img src="Capa2.png" >
 </p>
 Thiago Bomfim
