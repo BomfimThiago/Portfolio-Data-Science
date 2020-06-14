@@ -18,4 +18,4 @@ Experiência Profissional:
 
 Com uma experiência em desenvolvimento web, busco migrar para a área de Data Science e para conseguir a primeira vaga como cientista de dados júnior tenho desenvolvido projetos como os abaixo:
 ## Projetos:
-* **Como usar o Histograma para Data Science:** https://colab.research.google.com/drive/1721fOuawe0zDknAc8UhzYS8OUGYi9ytA#scrollTo=etVxrKgvf1bu
+* **Análise das notas do enem de 2016:** https://bit.ly/2YtpN84
